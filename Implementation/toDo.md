@@ -1,6 +1,7 @@
 # Implementation To Do
 
-Research how the MySQL code and database will live on Github
+Research how the MySQL code and database will live on Github:
+    Database should live locally, MySQL code will be on Github (table set up and subset of data) +summary docs
 
 Implement tables:
 
